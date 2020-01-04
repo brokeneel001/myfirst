@@ -1,2 +1,3 @@
 hi this is the first line where you are adding contents.
-first change after the first commit
+first change after the first commit\
+this is second time to changes in file1
