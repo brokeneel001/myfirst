@@ -1,2 +1,8 @@
 rebase in cr1
+
 change for rebase conflict condition
+
+
+remote setup done usig the content for rebase conflict condition
+
+file 2 modified for rebashing on remote server
